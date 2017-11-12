@@ -1,0 +1,18 @@
+1=8,1
+2=5,6,9
+3=9
+4=2,4
+5=10,7
+
+INSERT INTO `testinsight`.`people_vehicle` (`people_id`, `vehicle_id`) VALUES (1, 8);
+INSERT INTO `testinsight`.`people_vehicle` (`people_id`, `vehicle_id`) VALUES (1, 1);
+INSERT INTO `testinsight`.`people_vehicle` (`people_id`, `vehicle_id`) VALUES (2, 5);
+INSERT INTO `testinsight`.`people_vehicle` (`people_id`, `vehicle_id`) VALUES (2, 6);
+INSERT INTO `testinsight`.`people_vehicle` (`people_id`, `vehicle_id`) VALUES (2, 9);
+INSERT INTO `testinsight`.`people_vehicle` (`people_id`, `vehicle_id`) VALUES (3, 9);
+INSERT INTO `testinsight`.`people_vehicle` (`people_id`, `vehicle_id`) VALUES (4, 2);
+INSERT INTO `testinsight`.`people_vehicle` (`people_id`, `vehicle_id`) VALUES (4, 4);
+INSERT INTO `testinsight`.`people_vehicle` (`people_id`, `vehicle_id`) VALUES (5, 10);
+INSERT INTO `testinsight`.`people_vehicle` (`people_id`, `vehicle_id`) VALUES (5, 7);
+
+
