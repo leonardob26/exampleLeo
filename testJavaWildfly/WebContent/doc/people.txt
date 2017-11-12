@@ -1,0 +1,12 @@
+1=Steve Jobs
+2=Bob Martin
+3=James Gosling
+4=Sergey Brin
+5=Bill Gates
+
+INSERT INTO `testinsight`.`people` (`id`, `pname`) VALUES (1, 'Steve Jobs');
+INSERT INTO `testinsight`.`people` (`id`, `pname`) VALUES (2, 'Bob Martin');
+INSERT INTO `testinsight`.`people` (`id`, `pname`) VALUES (3, 'James Gosling');
+INSERT INTO `testinsight`.`people` (`id`, `pname`) VALUES (4, 'Sergey Brin');
+INSERT INTO `testinsight`.`people` (`id`, `pname`) VALUES (5, 'Bill Gates');
+

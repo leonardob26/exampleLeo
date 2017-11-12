@@ -1,0 +1,23 @@
+1=Ducati Monster 1100
+2=Hennessey Venom GT2
+3=Tesla Model S
+4=Ferrari Enzo
+5=Jenson Diamondback Sortie 29Er Mountain Bike
+6=MTD-800 Go-Kart
+7=Fort Pinto Hatchback
+8=Lamborghini Veneno Roadster
+9=Aston Martin Vanquish Q
+10=Hoveround Dart 3-Wheel Travel Scooter
+
+INSERT INTO `testinsight`.`vehicle` (`id`,`vname`)VALUES(1,'Ducati Monster 1100');
+INSERT INTO `testinsight`.`vehicle` (`id`,`vname`)VALUES(2,'Hennessey Venom GT2');
+INSERT INTO `testinsight`.`vehicle` (`id`,`vname`)VALUES(3,'Tesla Model S');
+INSERT INTO `testinsight`.`vehicle` (`id`,`vname`)VALUES(4,'Ferrari Enzo');
+INSERT INTO `testinsight`.`vehicle` (`id`,`vname`)VALUES(5,'Jenson Diamondback Sortie 29Er Mountain Bike');
+INSERT INTO `testinsight`.`vehicle` (`id`,`vname`)VALUES(6,'MTD-800 Go-Kart');
+INSERT INTO `testinsight`.`vehicle` (`id`,`vname`)VALUES(7,'Fort Pinto Hatchback');
+INSERT INTO `testinsight`.`vehicle` (`id`,`vname`)VALUES(8,'Lamborghini Veneno Roadster');
+INSERT INTO `testinsight`.`vehicle` (`id`,`vname`)VALUES(9,'Aston Martin Vanquish Q');
+INSERT INTO `testinsight`.`vehicle` (`id`,`vname`)VALUES(10,'Hoveround Dart 3-Wheel Travel Scooter');
+
+

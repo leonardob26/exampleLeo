@@ -1,0 +1,13 @@
+Assignment:
+1. Read the three attached text files into java.
+   - vehicles.txt file contains a mapping of vehicle IDs to vehicle names.
+   - people.txt file contains a mapping of people IDs to human names.
+   - people_vehicles.txt file contains a mapping of people IDs to the IDs of the vehicles they drive.
+2. Produce a nice report showing which vehicles each person drives.
+3. (Extra credit) Create functionality to programmatically alter the files to add/change data.
+
+What we will be looking for:
+1. Code cleanliness (well-named classes, attributes, methods, short succinct methods)
+2. Unit tests that prove the code is working correctly
+3. How functionality is divided into classes
+
